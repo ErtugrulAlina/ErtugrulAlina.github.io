@@ -187,11 +187,14 @@ body{
     font-weight: 700;
     line-height: 24px;
     margin-top: 11px;
-    margin-bottom: 15px;
+    margin-bottom: 13px;
 }
 .education-speciality{
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 15px;
+    margin-bottom: 13px;
+}
+.english{
+    margin-top: 40px;
 }
